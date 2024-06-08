@@ -23,7 +23,7 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖 GALLERY TASKFORCE <a name="about-project"></a>
 
-**GALLERY TASKFORCE** In this project, I  developing a web application for managing events organized by our company. This platform will enable users to browse upcoming events, book tickets, and manage their bookings, while administrators will have access to an admin dashboard for event management.
+**GALLERY TASKFORCE** In this project,The Gallery project showcases a collection of images, allowing users to view and interact with them. The project might include features such as image thumbnails, image zoom or full-screen view, and navigation between images..
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,6 +35,8 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
+### Key Features
 
 - [ ] **Responsive Design**
 >The interactive photo gallery should adapt seamlessly ✓
@@ -56,6 +58,20 @@ modern web browsers, such as Chrome, Firefox, Safari, and Edge ✓
 best practices and coding conventions for HTML, CSS, and JavaScript ✓
 
 
+### Challenge Solutions:
+
+- [ ] **Subarray Sum Challenge**:
+
+>The solution uses a sliding window technique to find a contiguous subarray that sums up to a given target.
+>This approach ensures an O(n) time complexity and O(1) space complexity, making it efficient for large inputs.
+>Edge cases, such as an array with negative numbers or a target that cannot be achieved, are handled gracefully by the algorithm.
+
+- [ ] **String Transformation Challenge**:
+
+>The solution checks the divisibility of the string length by 3, 5, and 15 to determine the appropriate transformation.
+>The operations of reversing the string and replacing characters with their ASCII codes are performed efficiently using built-in JavaScript methods.
+>The solution ensures that all specified cases are handled correctly, and the implementation adheres to the expected time and space complexities.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -64,7 +80,7 @@ best practices and coding conventions for HTML, CSS, and JavaScript ✓
 
 ### Live Demo
    ```sh
-  livelink
+  https://gilberthappi.github.io/gallery.taskforce/
    ```
 
 <!-- GETTING STARTED -->
@@ -122,6 +138,7 @@ _To get a local copy up and running follow these simple steps._
 
 - [ ] **Add Night/Day mode**
 - [ ] **Newsletter Email**
+- [ ] **Navigation Controls**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
